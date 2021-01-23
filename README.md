@@ -1,5 +1,5 @@
 # edk2-hello-world
-hello-world firmware edk2 for uefi shell
+hello-world firmware edk2 for uefi shell port to android phones
 
 ## Dependencies
 
