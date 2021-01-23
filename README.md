@@ -46,12 +46,12 @@ git clone https://github.com/tianocore/edk2-platforms.git -o cfdc7f907d545b14302
 
 2.Clone this project
 ```
-git clone https://github.com/NekokeCore/edk2-dipper.git
+git clone https://github.com/Vicc2008/edk2-hello-world.git
 ```
 
 3.Build environment
 ```
-cd edk2-dipper
+cd edk2-hello-world
 bash firstrun.sh
 ```
 
